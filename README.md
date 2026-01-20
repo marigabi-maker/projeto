@@ -1,11 +1,19 @@
-# projeto
-# Gerador de Mensagens com IA (Simulada)
+# Projeto Gerador de Mensagens com IA (Simulada)
 
-Projeto simples em Python para gerar mensagens personalizadas
-usando dados fictícios.
-
-## Tecnologias
-- Python 3
+Este projeto simula o uso de inteligência artificial para gerar mensagens personalizadas
+para usuários, utilizando dados fictícios em Python.
 
 ## Objetivo
-Praticar lógica e organização de código.
+- Praticar lógica
+- Trabalhar com listas e dicionários
+- Simular um fluxo real de IA sem depender de API externa
+
+## Estrutura
+- `dados.py`: dados dos usuários
+- `ia.py`: lógica de geração de mensagens
+- `main.py`: execução do programa
+
+## Próximos passos
+- Integrar com API real de IA
+- Usar banco de dados (MongoDB ou SQL)
+- Criar interface web ou API
